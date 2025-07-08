@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+pickle-mixin
+scikit-learn
+streamlit-lottie
+google-generativeai
+python-dotenv
+supabase
+httpx
