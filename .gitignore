@@ -1,0 +1,5 @@
+# Secret keys and credentials
+secrets.toml
+
+# Unnecessary material
+dataset/
