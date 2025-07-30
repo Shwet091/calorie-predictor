@@ -1,5 +1,5 @@
 # Secret keys and credentials
-secrets.toml
+.streamlit/secrets.toml
 
 # Unnecessary material
 dataset/
