@@ -88,6 +88,9 @@ calorie_proct/
  Dataset and model files (`.pkl`) are intentionally included to allow full functionality of the app.
 
 ---
+app link : https://calorie-predictor-planner.streamlit.app/
+
+---
 
  ✍️ Author
 
