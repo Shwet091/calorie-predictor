@@ -8,3 +8,4 @@ google-generativeai
 python-dotenv
 supabase
 httpx
+xgboost == 2.1.4
